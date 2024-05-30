@@ -1,0 +1,12 @@
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net6.0\WeaponsLibrary.deps.json
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net6.0\WeaponsLibrary.dll
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net6.0\WeaponsLibrary.pdb
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.csproj.AssemblyReference.cache
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.AssemblyInfoInputs.cache
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.AssemblyInfo.cs
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.dll
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\refint\WeaponsLibrary.dll
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\WeaponsLibrary.pdb
+C:\Users\W10User\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net6.0\ref\WeaponsLibrary.dll

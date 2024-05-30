@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeaponsLibrary/1.0.0": {
+        "runtime": {
+          "WeaponsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
