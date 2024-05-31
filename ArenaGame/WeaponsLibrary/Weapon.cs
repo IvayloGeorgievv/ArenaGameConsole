@@ -27,12 +27,5 @@ namespace WeaponsLibrary
         {
             return Random.Shared.Next(10,30);
         }
-
-        protected bool ThrowDice(int chance)
-        {
-            int dice = Random.Shared.Next(101);
-            return dice <= chance;
-        }
-
     }
 }

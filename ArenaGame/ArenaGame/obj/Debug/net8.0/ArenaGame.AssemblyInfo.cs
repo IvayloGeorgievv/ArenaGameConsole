@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArenaGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ccf96db8468ec6d88124e7c78f80cd62b78ddb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArenaGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArenaGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

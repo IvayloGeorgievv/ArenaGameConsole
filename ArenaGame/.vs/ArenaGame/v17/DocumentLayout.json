@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\WeaponsLibrary.csproj|d:\\uni\\oop\\ooparenagame\\arenagame\\weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\WeaponsLibrary.csproj|solutionrelative:weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|d:\\uni\\oop\\ooparenagame\\arenagame\\arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\WeaponsLibrary.csproj|solutionrelative:weaponslibrary\\magestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\WeaponsLibrary.csproj|d:\\uni\\oop\\ooparenagame\\arenagame\\weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\WeaponsLibrary.csproj|solutionrelative:weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|d:\\uni\\oop\\ooparenagame\\arenagame\\arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ConsoleGame\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Hero.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ArenaGame\\Hero.cs",
               "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Greatsword.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\Greatsword.cs",
               "RelativeDocumentMoniker": "WeaponsLibrary\\Greatsword.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Daggers.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\Daggers.cs",
               "RelativeDocumentMoniker": "WeaponsLibrary\\Daggers.cs",
@@ -106,19 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\Weapon.cs",
               "RelativeDocumentMoniker": "WeaponsLibrary\\Weapon.cs",
               "ToolTip": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\Weapon.cs",
               "RelativeToolTip": "WeaponsLibrary\\Weapon.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA4AAAAlAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T22:24:28.934Z"
+              "WhenOpened": "2024-05-30T22:24:28.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MageStaff.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\MageStaff.cs",
               "RelativeDocumentMoniker": "WeaponsLibrary\\MageStaff.cs",
@@ -130,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Mage.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ArenaGame\\Mage.cs",
               "RelativeDocumentMoniker": "ArenaGame\\Mage.cs",
@@ -142,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Barbarian.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ArenaGame\\Barbarian.cs",
               "RelativeDocumentMoniker": "ArenaGame\\Barbarian.cs",
@@ -154,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Rogue.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ArenaGame\\Rogue.cs",
               "RelativeDocumentMoniker": "ArenaGame\\Rogue.cs",
@@ -167,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Knight.cs",
               "DocumentMoniker": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\ArenaGame\\Knight.cs",
               "RelativeDocumentMoniker": "ArenaGame\\Knight.cs",

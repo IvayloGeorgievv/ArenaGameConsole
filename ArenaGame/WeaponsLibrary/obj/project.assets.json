@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10User\\Desktop\\ArenaGame\\WeaponsLibrary\\WeaponsLibrary.csproj",
+      "projectUniqueName": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\WeaponsLibrary.csproj",
       "projectName": "WeaponsLibrary",
-      "projectPath": "C:\\Users\\W10User\\Desktop\\ArenaGame\\WeaponsLibrary\\WeaponsLibrary.csproj",
+      "projectPath": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\WeaponsLibrary.csproj",
       "packagesPath": "C:\\Users\\W10User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10User\\Desktop\\ArenaGame\\WeaponsLibrary\\obj\\",
+      "outputPath": "D:\\uni\\OOP\\OOPArenaGame\\ArenaGame\\WeaponsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
